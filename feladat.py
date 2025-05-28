@@ -19,4 +19,6 @@ napi_atlaghomersekletek = [12, 15, 14, 16, 13, 17, 18]
 
 rajzolj_diagram(napi_atlaghomersekletek)
 
+#homersekleti diagramot készit napi atlaggal
+
 
